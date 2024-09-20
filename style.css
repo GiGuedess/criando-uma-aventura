@@ -1,0 +1,28 @@
+body{
+    background-color: darkolivegreen;
+    color: blanchedalmond;
+    font-family: "EB Garamond", serif;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: aquamarine;
+    color: black;
+    font-family: "EB Garamond", serif;
+}
+
+.passo{
+    display:none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+   
+   
+        
+    
